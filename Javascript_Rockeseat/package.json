@@ -1,0 +1,9 @@
+{
+  "name": "javascript_rockeseat",
+  "version": "0.0.0",
+  "description": "Javascript_Rockeseat",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
